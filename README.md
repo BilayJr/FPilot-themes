@@ -7,6 +7,8 @@
 
 ![tacky-borders_iEH0E9333G](https://github.com/user-attachments/assets/6e9ff37e-ba23-417b-9416-0cf97fb2fcbe)
 
+![tacky-borders_YlJQE46deT](https://github.com/user-attachments/assets/fee667b2-53d7-4f6c-999f-04b80cd88cc1)
+
 ![tacky-borders_CoH04rp1U8](https://github.com/user-attachments/assets/8206286b-139d-4152-9ee0-6d9ee8059c3c)
 
 ## [Rose Pine](https://github.com/BilayJr/FPilot-themes/raw/refs/heads/main/rosepine.json)
