@@ -1,4 +1,6 @@
 # [File Pilot](https://filepilot.tech/) themes
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua/)
+
 ### [Catppuccin](https://github.com/BilayJr/FPilot-themes/raw/refs/heads/main/catppuccin.json)
 
 ![tacky-borders_D4VWe6mh28](https://github.com/user-attachments/assets/bec3da4b-f820-45a6-896d-06db9a4cf50d)
