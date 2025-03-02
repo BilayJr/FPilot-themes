@@ -7,6 +7,14 @@
 
 ![tacky-borders_CoH04rp1U8](https://github.com/user-attachments/assets/8206286b-139d-4152-9ee0-6d9ee8059c3c)
 
+## [Rose Pine](https://github.com/BilayJr/FPilot-themes/raw/refs/heads/main/rosepine.json)
+
+![tacky-borders_8lMUvTOngs](https://github.com/user-attachments/assets/e45e21c1-db82-47d4-a971-36868eff5c9e)
+
+![tacky-borders_EvJiUjdQ8k](https://github.com/user-attachments/assets/5292c3dd-efdb-42fd-a180-afaa38fc6578)
+
+![tacky-borders_0TPsBJv6kT](https://github.com/user-attachments/assets/e70e698e-f83f-4541-adcb-7851262ee8ee)
+
 ### [Nord](https://github.com/BilayJr/FPilot-themes/raw/refs/heads/main/nord.json)
 
 ![tacky-borders_Da2oSfSJcH](https://github.com/user-attachments/assets/0df82391-53c6-478d-9f45-59f8b56c3a69)
