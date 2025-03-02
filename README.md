@@ -25,6 +25,10 @@
 
 ![tacky-borders_qNjsMTTceI](https://github.com/user-attachments/assets/282f096b-e98f-4830-9969-b9df516e41de)
 
+## Dracula
+
+![tacky-borders_df5ory59zo](https://github.com/user-attachments/assets/cf3d76a2-586d-4e8c-960f-931f24879de0)
+
 ### [Pink](https://github.com/BilayJr/FPilot-themes/raw/refs/heads/main/pink.json)
 
 ![NVIDIA_Overlay_3pXgyLDoAh](https://github.com/user-attachments/assets/113ae5b4-e4f6-4dfb-bd25-9aa539e83a3e)
