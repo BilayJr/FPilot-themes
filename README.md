@@ -3,6 +3,9 @@
 # [File Pilot](https://filepilot.tech/) themes
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua/)
 
+> [!NOTE]
+> This repo is not in any way associated with Voidstar or File Pilot.
+
 #### [Installation](#installation)・[Themes](#themes)・[Contributing](#contributing)
 
 ## Installation:
@@ -10,7 +13,7 @@
 1. Open the `FPilot-Config.json` file (usually located in `%USERPROFILE%/AppData/Roaming/Voidstar/FilePilot/`)
 2. Append the contents of your preffered theme's json file to the `"Color"` section
 > [!IMPORTANT]
-> Dont forget commas
+> Dont forget commas.
 
 **You can also install all themes by copying the contents of [`everything.json`](/themes/everything.json)**
  
