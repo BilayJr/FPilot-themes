@@ -12,7 +12,7 @@
 > [!IMPORTANT]
 > Dont forget commas
 
-**You can also install all themes by copying the contents of [`everything.json`](https://raw.githubusercontent.com/BilayJr/FPilot-themes/refs/heads/main/themes/everything.json)**
+**You can also install all themes by copying the contents of [`everything.json`](/themes/everything.json)**
  
 ## Themes:
 
