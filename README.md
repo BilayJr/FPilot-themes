@@ -1,5 +1,9 @@
+![logo](assets/logo.svg)
+
 # [File Pilot](https://filepilot.tech/) themes
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua/)
+
+#### [Installation](#installation)・[Themes](#themes)・[Contributing](#contributing)
 
 ## Installation:
 
